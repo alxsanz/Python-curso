@@ -1,0 +1,7 @@
+
+Mi nombre es Alex
+Mi apellido Sanz
+32 años
+Mi lenguaje es python
+También me gusta Kotlin
+Y Swift
